@@ -1,4 +1,4 @@
-Applying for Job Opportunities in Linkedin
+## Applying for Job Opportunities in Linkedin
 
 I have used this algorithm in my own laptop, using Spyder and it seems to work properly. 
 
